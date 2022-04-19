@@ -1,1 +1,31 @@
-/* Write your CSS here! */
+html {
+    background-color: bisque;
+}
+.centered {
+    text-align: center;
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red;
+}
+#testP {
+    color: green;
+}
+h1 {
+   font-size: xx-large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h2 {
+    color: black;
+}
+#explanation {
+    font-size: xx-large;
+
+}
+
+ 
